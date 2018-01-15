@@ -8,5 +8,9 @@
     "start": "nodemon ./src/index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.14.11",
+    "querystring": "^0.2.0"
+  }
 }
