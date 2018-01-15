@@ -1,0 +1,12 @@
+{
+  "name": "4-node-http-api-translater",
+  "version": "1.0.0",
+  "description": "Существует сервис Яндекс.Переводчик, у него есть [хорошо описанное API](https://tech.yandex.ru/translate/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
