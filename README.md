@@ -1,6 +1,6 @@
 # Создаем собственный переводчик, используя модуль http
 
-* `npm start` then go to [http://localhost:3000/] in browser.
+* `npm start` then go to [http://localhost:3000] (http://localhost:3000) in browser.
 
 Существует сервис Яндекс.Переводчик, у него есть [хорошо описанное API](https://tech.yandex.ru/translate/).
 
